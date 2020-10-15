@@ -36,7 +36,7 @@
       "all": true
     },
     "window": {
-      "title": "Tauri App",
+      "title": "Tauri Vue App",
       "width": 900,
       "height": 700,
       "resizable": true,
